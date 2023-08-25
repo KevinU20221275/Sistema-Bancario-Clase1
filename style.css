@@ -9,3 +9,17 @@ h1{
     padding: 15px;
 }
 
+.presentation{
+    max-width: 600px;
+    margin-top: 10px;
+    background-color: #494;
+    padding: 1rem;
+}
+
+.presentation P {
+    color: #fff;
+}
+
+.presentation p span{
+    font-weight: 700;
+}
